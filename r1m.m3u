@@ -1,1 +1,3 @@
-m3u
+#EXTM3U
+#EXTINF:1,Radio 1 de Mayo
+https://freeuk16.listen2myradio.com/live.mp3?typeportmount=ice_30808_stream_138134071
