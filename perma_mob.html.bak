@@ -10,7 +10,7 @@
 width: 250px; position: relative;
 }
 #innerdiv {
-position: absolute; left: 0px; top: -390px;clip:rect(390px 82px 460px 10px);
+position: absolute; left: 0px; top: -200px;clip:rect(200px 500px 500px 10px);
 }
 </style>
 
@@ -18,7 +18,7 @@ position: absolute; left: 0px; top: -390px;clip:rect(390px 82px 460px 10px);
 
 <div id="outerdiv">
 <div id="innerdiv">      
-<iframe sandbox="allow-scripts" width="500" height="500" src="https://radio1demayo.radio12345.com/index.php" scrolling="no" frameborder="0"></iframe>
+<iframe sandbox="allow-scripts" width="500" height="800" src="https://radio1demayo.radio12345.com/index.php" scrolling="no" frameborder="0"></iframe>
 </div>
 </div>
 
